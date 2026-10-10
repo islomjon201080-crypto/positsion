@@ -1,0 +1,103 @@
+.dock {
+    background-color: rgba(157, 156, 156, 0.203);
+    width: 1200px;
+    margin: auto;
+    margin-top: 680px;
+    border-radius: 20px;
+    padding: 7px;
+    display: flex;
+    gap: 25px;
+}
+
+.finder {
+    width: 60px;
+    height: 60px;
+    border-radius: 20px;
+}
+
+.siri {
+    width: 60px;
+    height: 60px;
+    border-radius: 20px;
+}
+
+.chrome {
+    width: 60px;
+    height: 60px;
+    border-radius: 20px;
+}
+
+.pochta {
+    width: 60px;
+    height: 60px;
+    border-radius: 20px;
+}
+
+.tv {
+    width: 60px;
+    height: 60px;
+    border-radius: 20px;
+}
+
+.music {
+    width: 60px;
+    height: 60px;
+    border-radius: 20px;
+}
+
+.telegram {
+    width: 60px;
+    height: 60px;
+    border-radius: 20px;
+}
+
+.pozitsion{
+    position: absolute;
+    background-color: rgb(255, 0, 0);
+    border-radius: 100px;
+    color: rgb(226, 222, 222);
+    width: 30px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    left: 750px;
+    bottom: 40px;
+    font-size: 20px;
+}
+
+.app {
+    width: 60px;
+    height: 60px;
+    border-radius: 20px;
+}
+
+.vsc {
+    width: 60px;
+    height: 60px;
+    border-radius: 20px;
+}
+
+.safari {
+    width: 60px;
+    height: 60px;
+    border-radius: 20px;
+}
+
+.papka {
+    width: 60px;
+    height: 60px;
+    border-radius: 20px;
+}
+
+.papki{
+    display: flex;
+    justify-content: end;
+    gap: 20px;
+}
+
+body {
+    background-image: url(https://img1.akspic.ru/crops/0/3/2/4/7/174230/174230-macbook-yabloko-operacionnaya_sistema-atmosfera-oblako-1920x1080.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
